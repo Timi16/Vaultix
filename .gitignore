@@ -14,3 +14,6 @@ npm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+# OS generated files
+.DS_Store
+Thumbs.db   
